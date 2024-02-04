@@ -1,0 +1,2 @@
+The median elements are : 496 and 496
+Median is 496

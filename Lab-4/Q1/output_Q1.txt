@@ -1,0 +1,2 @@
+Using Brute Force method number of inversion are : 24908772
+Using Divide and Conquer stratergy(similar to merge sort) we get the number of inversion as : 24908772
