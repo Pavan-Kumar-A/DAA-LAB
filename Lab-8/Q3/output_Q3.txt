@@ -1,0 +1,2 @@
+The Best MST is: 110
+Second Best MST is: 121
